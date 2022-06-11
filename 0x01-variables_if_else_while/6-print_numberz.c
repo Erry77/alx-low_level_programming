@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+#include <time.h>
+#include <stdlib>
 /**
  * main - assign a random number to the variable n each
  * and print the lowercase letters
@@ -15,4 +16,5 @@ putchar(ch);
 putchar(10);
 
 return (0);
+}
 
